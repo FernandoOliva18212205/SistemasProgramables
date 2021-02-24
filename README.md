@@ -24,11 +24,6 @@
 
 ---
 
-### :blue_book: Introducción
-
-
----
-
 ### :books: Contenido de la materia​
 
 1. :book: [C0.1 Integrar equipos de trabajo](https://github.com/FernandoOliva18212205/SistemasProgramables/blob/main/actividades/C0.1Integrar-equipos-de-trabajo.md)

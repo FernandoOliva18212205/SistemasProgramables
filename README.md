@@ -2,7 +2,7 @@
     <img alt="Logo" src="https://www.tijuana.tecnm.mx/wp-content/themes/tecnm/images/logo_TECT.png" width=250 height=250>
 </p>
 
-# Ingeniería en sistemas computaciones, Tecnologías de la información y comunicación, e Informática
+# Ingeniería en sistemas computaciones.
 
 ## SCC-1023/SC7A SISTEMAS PROGRAMABLES
 
@@ -19,9 +19,10 @@
 
 ### :necktie: Datos del alumno de la materia
 
-* Nombre: Carlos Fernando Leal Oliva
+* Nombre: Carlos Fernando Leal Oliva.
 * Estudiante de ingenieria en sistemas computacionales. 
-
+* Equipo: Sistematicos.
+* Numero de control: 18212205.
 ---
 
 ### :books: Contenido de la materia​

@@ -2,9 +2,11 @@
     <img alt="Logo" src="https://www.tijuana.tecnm.mx/wp-content/themes/tecnm/images/logo_TECT.png" width=250 height=250>
 </p>
 
-# Ingeniería en sistemas computaciones.
 
-## SCC-1023/SC7A SISTEMAS PROGRAMABLES
+ <H1 align="center" > Ingeniería en sistemas computaciones.</H1>
+
+
+ <H2 align="center" >SCC-1023/SC7A SISTEMAS PROGRAMABLES</H2>
 
 ---
 

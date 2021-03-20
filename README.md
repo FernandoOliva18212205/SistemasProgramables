@@ -34,5 +34,6 @@
 3. :book: [C1.2 Circuito electrónico básico](https://github.com/FernandoOliva18212205/SistemasProgramables/blob/main/actividades/C1.2_Circuito_electr%C3%B3nico_b%C3%A1sico.md)
 4. :book: [C1.3 Circuito electronico divisor de tension](https://github.com/FernandoOliva18212205/SistemasProgramables/blob/main/actividades/C1.3_Circuito_electronico_divisor_de_tension.md)
 5. :book: [A.1.2 Realizar un sensor medidor de luz (lux) a través de un circuito electrónico, utilizando un simulador, y un LDR (Light dependent Resistor).](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A1.2_NombreApellido_Sistematicos.md)
+6. :book: [C1.4 Circuito electronico para el acondicionamiento de señal con un amplificador operacional](https://github.com/FernandoOliva18212205/SistemasProgramables/blob/main/actividades/C1.4_Circuito_electronico_para_el_acondicionamiento_de_se%C3%B1al_con_un_amplificador_operacional.md)
 
 

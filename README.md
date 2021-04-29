@@ -40,5 +40,5 @@
 
 ### Unidad 2.
 8. :book: [C2.1 Cuestionario Actuadores y su clasificación](https://github.com/FernandoOliva18212205/SistemasProgramables/blob/main/actividades/C2.1_CuestionarioActuadoresysuclasificaci%C3%B3n_LealOliva.md)
-
+9. :book: [C2.2 Cuestionario Actuadores Eléctricos](https://github.com/FernandoOliva18212205/SistemasProgramables/blob/main/actividades/C2.2_Cuestionario_Actuadores_El%C3%A9ctricos.pdf)
 

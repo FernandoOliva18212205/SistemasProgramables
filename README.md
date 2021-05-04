@@ -29,7 +29,7 @@
 
 ## :books: Contenido de la materia​
 
-###Actividades en equipo}
+### Actividades en equipo
 1. :book: [A.1.2 Realizar un sensor medidor de luz (lux) a través de un circuito electrónico, utilizando un simulador, y un LDR (Light dependent Resistor).](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A1.2_NombreApellido_Sistematicos.md)
 2. :book: [A.1.3  Realizar una investigación y presentación para ser expuesta en clase sobre el tema de sensores.](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A1.3_NombreApellido_Sistematicos.md)
 3. :book: [A.1.4 Realizar un sensor medidor de temperatura a través de un circuito electrónico, utilizando un simulador, y un Transistor TMP36.](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A1.4_NombreApellido_Sistematicos.md)

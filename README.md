@@ -48,3 +48,5 @@
 9. :book: [C2.2 Cuestionario Actuadores Eléctricos](https://github.com/FernandoOliva18212205/SistemasProgramables/blob/main/actividades/C2.2_Cuestionario_Actuadores_El%C3%A9ctricos.md)
 10. :book: [C2.3 Circuito temporizador 555](https://github.com/FernandoOliva18212205/SistemasProgramables/blob/main/actividades/C2.3_Circuito_temporizador_555.md)
 
+### Unidad 3.
+11. :book: [C3.1 Arduino IDE Salida Digital](https://github.com/FernandoOliva18212205/SistemasProgramables/blob/main/actividades/C3.1_Arduino_UNO_salida_digital.md)

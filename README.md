@@ -51,3 +51,5 @@
 ### Unidad 3.
 11. :book: [C3.1 Arduino IDE Salida Digital](https://github.com/FernandoOliva18212205/SistemasProgramables/blob/main/actividades/C3.1_Arduino_UNO_salida_digital.md)
 12. :book: [ C3.2 Arduino IDE Entrada Digital e impresion serial](https://github.com/FernandoOliva18212205/SistemasProgramables/blob/main/actividades/C3.2_Arduino_IDE_Entrada_Digital_e_impresion_serial.md)
+13. :book: [C3.3 Arduino IDE Entrada Analoga y funcion serial](https://github.com/FernandoOliva18212205/SistemasProgramables/blob/main/actividades/C3.3_Arduino_IDE_Entrada_Analoga_y_funcion_serial.md)
+14. :book:[C3.4 Arduino IDE Entrada Salida, sensor y funcion serial](https://github.com/FernandoOliva18212205/SistemasProgramables/blob/main/actividades/C3.4_Arduino_IDE_Entrada_Salida_sensor_y_funcion_serial.md)
